@@ -23,8 +23,12 @@ JavaScript for the frontend interface. The app data is stored in a SQLite databa
 
 <h3>Dependencies:</h3>
 
-- flask_sqlalchemy - for ORM
-- flask_login - for managing user authentication
-- flask_wtf - to creat flask forms to collect data from the user
-- werkzeug - to secure file uploads
-- flask_bcrypt - for hashing support to store sensitive data
+<h1>Screenshots</h1>
+<h3>Home Page</h3>
+<img src ="https://raw.githubusercontent.com/NishanthSamson/MyBloggr-CRUD-Based-Blog-Web-App/main/Screenshots/home.jpg" width="610" height="330"></img>
+<h3>Blog Post</h3>
+<img src ="https://raw.githubusercontent.com/NishanthSamson/MyBloggr-CRUD-Based-Blog-Web-App/main/Screenshots/blog.jpg" width="610" height="330"></img>
+<h3>Account Page</h3>
+<img src ="https://raw.githubusercontent.com/NishanthSamson/MyBloggr-CRUD-Based-Blog-Web-App/main/Screenshots/account.jpg" width="610" height="330"></img>
+<h3>Comments</h3>
+<img src ="https://raw.githubusercontent.com/NishanthSamson/MyBloggr-CRUD-Based-Blog-Web-App/main/Screenshots/comments.jpg" width="610" height="330"></img>
