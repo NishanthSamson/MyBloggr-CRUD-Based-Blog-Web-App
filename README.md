@@ -25,10 +25,10 @@ JavaScript for the frontend interface. The app data is stored in a SQLite databa
 
 <h1>Screenshots</h1>
 <h3>Home Page</h3>
-<img src ="https://raw.githubusercontent.com/NishanthSamson/MyBloggr-CRUD-Based-Blog-Web-App/main/Screenshots/home.jpg" width="610" height="330"></img>
+<img src ="https://raw.githubusercontent.com/NishanthSamson/MyBloggr-CRUD-Based-Blog-Web-App/main/Screenshots/home.jpg" width="610" height="330">
 <h3>Blog Post</h3>
-<img src ="https://raw.githubusercontent.com/NishanthSamson/MyBloggr-CRUD-Based-Blog-Web-App/main/Screenshots/blog.jpg" width="610" height="330"></img>
+<img src ="https://raw.githubusercontent.com/NishanthSamson/MyBloggr-CRUD-Based-Blog-Web-App/main/Screenshots/blog.jpg" width="610" height="330">
 <h3>Account Page</h3>
-<img src ="https://raw.githubusercontent.com/NishanthSamson/MyBloggr-CRUD-Based-Blog-Web-App/main/Screenshots/account.jpg" width="610" height="330"></img>
+<img src ="https://raw.githubusercontent.com/NishanthSamson/MyBloggr-CRUD-Based-Blog-Web-App/main/Screenshots/account.jpg" width="610" height="330">
 <h3>Comments</h3>
-<img src ="https://raw.githubusercontent.com/NishanthSamson/MyBloggr-CRUD-Based-Blog-Web-App/main/Screenshots/comments.jpg" width="610" height="330"></img>
+<img src ="https://raw.githubusercontent.com/NishanthSamson/MyBloggr-CRUD-Based-Blog-Web-App/main/Screenshots/comments.jpg" width="610" height="330">
