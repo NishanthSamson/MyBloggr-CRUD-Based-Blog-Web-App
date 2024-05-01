@@ -11,18 +11,6 @@ JavaScript for the frontend interface. The app data is stored in a SQLite databa
 - Likes and comments support for blog posts
 - Minimalist themed user-friendly interface
 
-<h1>Instructions</h1>
-<ol>
-  <li>Clone repo</li>
-  &nbsp&nbsp git clone "https://github.com/NishanthSamson/MyBloggr-CRUD-Based-Blog-Web-App"
-  <li>Install dependencies using pip</li>
-  &nbsp&nbsp pip install -r requirements.txt<br>
-  <li>Run the flask application</li>
-  &nbsp&nbsp python -m flask run app.py<br>
-</ol>
-
-<h3>Dependencies:</h3>
-
 <h1>Screenshots</h1>
 <h3>Home Page</h3>
 <img src ="https://raw.githubusercontent.com/NishanthSamson/MyBloggr-CRUD-Based-Blog-Web-App/main/Screenshots/home.jpg" width="610" height="330">
